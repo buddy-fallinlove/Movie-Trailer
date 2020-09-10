@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "rotation": "/components/rotation/rotation",
+    "scrollxxx": "/components/scrollxxx/scrollxxx",
+    "scrollyyy": "/components/scrollyyy/scrollyyy",
+    "scollwww": "/components/scrollwww/scrollwww"
+  }
+}

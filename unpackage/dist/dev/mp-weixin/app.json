@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/home/home",
+    "pages/my/my",
+    "pages/loing/loing",
+    "pages/details/details"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "视频APP",
+    "navigationBarBackgroundColor": "#fdfdfd",
+    "backgroundColor": "white"
+  },
+  "tabBar": {
+    "color": "#AAAAAA",
+    "selectedColor": "#4CD964",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/images/tabbar/home.png",
+        "selectedIconPath": "static/images/tabbar/home-active.png"
+      },
+      {
+        "pagePath": "pages/home/home",
+        "text": "搜索",
+        "iconPath": "static/images/tabbar/search.png",
+        "selectedIconPath": "static/images/tabbar/search-active.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/images/tabbar/my.png",
+        "selectedIconPath": "static/images/tabbar/my-active.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap48.json"
+}
